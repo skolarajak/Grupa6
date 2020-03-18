@@ -1,5 +1,5 @@
 This is my branch file.
 I've added another file.
 another line
-
+I have added another line, but I will try to delete changes before commit.
 
