@@ -1,1 +1,2 @@
 This is the new file on tamsmi branch
+First time I didn't have initial changes to file, but I did git pull and everything is on the place.
