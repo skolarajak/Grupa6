@@ -2,3 +2,5 @@
 maja stefanovic
 stefanovicmaja@ymail.com
 ovaj red se nalazi u posebnoj grani
+Izmenjen fajl pred slanje na remote
+
