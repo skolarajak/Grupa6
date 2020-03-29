@@ -1,3 +1,4 @@
 
 Ovo je prvi red u fajlu.
 Ovo je drugi red.
+Ovo je treci red.
