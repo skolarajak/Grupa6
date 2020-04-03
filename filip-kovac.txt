@@ -2,4 +2,4 @@
 Filip Kovac
 kovacf6@gmail.com
 Ovaj red se nalazi u posebnoj grani
-
+Izmenjen fajl pred slanje na remote
